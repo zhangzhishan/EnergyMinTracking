@@ -1,0 +1,184 @@
+>> cemTrackerDemo
+Frames: ......  107
+Image size: ..  768 x 576
+Conjugate Gradient Descent
+---- JUMP  MOVES  ROUND 1 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:  14   9  19  14  26  13  13    7  108
+grow frw:   1   1   1   1   1   1   1    7    7...done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets.............done
+purge does no good!
+---- JUMP  MOVES  ROUND 2 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:   1   3   -   1   -   2   8    5   15
+grow frw:   -   -   -   -   -   -   -    0    0...done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets.............done
+purge does no good!
+---- JUMP  MOVES  ROUND 3 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:   -   -   -   -   -   1   -    1    1
+grow frw:   -   -   -   -   -   -   -    0    0...done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets.............done
+purge does no good!
+---- JUMP  MOVES  ROUND 4 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:   -   -   -   1   -   1   -    2    2
+grow frw:   -   -   -   -   -   -   -    0    0...done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets.............done
+purge does no good!
+---- JUMP  MOVES  ROUND 5 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:   -   1   -   2   -   1   -    3    4
+grow frw:   -   -   -   -   -   -   -    0    0...done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets.............done
+purge does no good!
+---- JUMP  MOVES  ROUND 6 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:   -   -   -   5   -   1   -    2    6
+grow frw:   -   -   -   -   -   -   -    0    0...done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets.............done
+purge does no good!
+---- JUMP  MOVES  ROUND 7 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:   -   1   -   1   -   1   -    3    3
+grow frw:   -   -   -   -   -   -   -    0    0...done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets........done
+Conjugate Gradient Descent
+removing targets..............done
+purge does no good!
+---- JUMP  MOVES  ROUND 8 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7   8 Tars Frms
+grow bck:   -   -   -   -   -   4   -   -    1    4
+grow frw:   -   -   -   -   -   -   -   -    0    0...done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7   8 Tars Frms
+shrk pst:   -   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting..............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets..............done
+purge does no good!
+---- JUMP  MOVES  ROUND 9 ----
+merging......done
+Conjugate Gradient Descent
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:   -   -   -   -   -   -   -    0    0
+grow frw:   -   -   -   -   -   -   -    0    0...done
+growing does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets.............done
+purge does no good!
+---- JUMP  MOVES  ROUND 10 ----
+merging......done
+merging does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+grow bck:   -   -   -   -   -   -   -    0    0
+grow frw:   -   -   -   -   -   -   -    0    0...done
+growing does no good!
+Target:     1   2   3   4   5   6   7 Tars Frms
+shrk pst:   -   -   -   -   -   -   -    0    0
+shrk ftr:   -   -   -   -   -   -   -    0    0...done
+shrinking does no good!
+splitting.............done
+split does no good!
+creating targets.......done
+adding does no good!
+removing targets.............done
+purge does no good!
+No jumps were executed. Optimization has converged after 10 epochs.
+All done (0.21 min = 0.00h = 0.12 sec per frame)
+
+Evaluation 2D:
+ Rcll  Prcn   FAR| GT  MT  PT  ML|  FP   FN IDs  FM|  MOTA  MOTP MOTAL 
+ 98.2  99.8  0.01|  7   7   0   0|   1    9   0   0|  98.1  75.4  98.1 
+
+Evaluation 3D:
+ Rcll  Prcn   FAR| GT  MT  PT  ML|  FP   FN IDs  FM|  MOTA  MOTP MOTAL 
+ 98.2  99.8  0.01|  7   7   0   0|   1    9   0   0|  98.1  86.2  98.1 
